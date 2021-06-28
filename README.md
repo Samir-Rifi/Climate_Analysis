@@ -10,10 +10,9 @@ o There is only 3.9 degrees difference in the average temperatures between June 
 
 o There is only 2 degrees difference in the maximum temperatures between June and December months (June temperature being the highest value).
 
-
 o Despite the small degrees difference in the average and maximum temperatures between June and December months, the gap gets wider when we look at minimum temperatures where the difference is around 9 degrees.
 
-![](june_temp.PNG) ![](decembre_temp.PNG) 
+![](june_temp.PNG)![](decembre_temp.PNG) 
 
 ## Summary:
 
@@ -21,10 +20,10 @@ The information gathered around the difference in temperatures between the month
 
 The two below additional queries will allow us to gather more weather data for June and December: 
 
-1.Same one used to collect June Temp, but collection precipitation data:
+1.June Precipitation data:
 
 ![](june_precip.PNG)
 
-2.Same one used to collect DEC Temp, but collection precipitation data:
+2.Decembre Precipitation data:
 
 ![](decembre_precip.PNG)
